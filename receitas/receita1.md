@@ -14,4 +14,3 @@
 3. Bata até ficar homogéneo.
 4. Leve ao forno pré-aquecido a 180ºC por 30 minutos.
 
-
