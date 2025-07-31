@@ -15,6 +15,8 @@
 
 1. "main": branch principal
 2. "miguel": branch criada por Miguel para realizar as atividades localmente
+3. "receita": utilizada para criar e versionar o ficheiro "receita1.md"
+
 
 * Informe como os merges foram realizados (com PR? Revisão?).
 
@@ -38,13 +40,12 @@
 
 Liste as issues criadas e quem ficou responsável por cada uma.
 
-Como o trabalho foi feito de forma individual, não foram criadas issues no GitHub.  
-
-Numa equipa maior, teríamos usado issues para organizar as tarefas.
+- Issue #1: Criar uma receita simples em Markdown
+  - Resolvida pelo Pull Request #8
 
 ## Pull Requests
 
-Um Pull Request foi criado para integrar a branch "miguel" na "main", com descrição detalhada das mudanças.  
+Um Pull Request foi criado para integrar a branch "miguel" na "main", com descrição detalhada das mudanças.
 
 Este processo simula o fluxo de colaboração com revisão entre colegas.
 
@@ -74,20 +75,21 @@ Dúvidas ou problemas que surgiram.
 
 Liste e comente comandos importantes usados no projeto.
 
-* git init — inicializar repositório local
-* git add — adicionar ficheiros ao staging
-* git commit -m — guardar alterações com mensagem
-* git status — verificar o estado dos ficheiros
-* git diff — comparar mudanças
-* git log — consultar histórico de commits
-* git restore — desfazer alterações
-* git checkout -b — criar nova branch
-* git push origin <branch> — enviar branch para o GitHub
-* git rm --cached — remover ficheiro do index sem apagar localmente
+\* git init — inicializar repositório local
+\* git add — adicionar ficheiros ao staging
+\* git commit -m — guardar alterações com mensagem
+\* git status — verificar o estado dos ficheiros
+\* git diff — comparar mudanças
+\* git log — consultar histórico de commits
+\* git restore — desfazer alterações
+\* git checkout -b — criar nova branch
+\* git push origin <branch> — enviar branch para o GitHub
+\* git rm --cached — remover ficheiro do index sem apagar localmente
 
 ## Conclusão
 
 Aprendizados principais do grupo com a atividade.
 
-* A atividade permitiu compreender e aplicar os fundamentos de Git, incluindo staging, commits, branches, merges, resolução de problemas técnicos e uso do GitHub.
-* Mesmo em trabalho individual, foram simuladas práticas reais de colaboração.
+\* A atividade permitiu compreender e aplicar os fundamentos de Git, incluindo staging, commits, branches, merges, resolução de problemas técnicos e uso do GitHub.
+\* Mesmo em trabalho individual, foram simuladas práticas reais de colaboração.
+
